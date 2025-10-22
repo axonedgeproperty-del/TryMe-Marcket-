@@ -1,0 +1,7 @@
+{
+  "name": "TryMe Market",
+  "description": "A virtual marketplace allowing users to virtually try on clothing and accessories using AI, create outfits, and connect with sellers directly. This platform focuses on an immersive and emotional shopping experience without integrated payments.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
